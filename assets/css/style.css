@@ -1,4 +1,6 @@
-
+.container{
+    position: fixed;
+}
 .uppercase {
     padding-top: 23px;
     text-transform: uppercase;
