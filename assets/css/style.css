@@ -113,10 +113,10 @@
     }
     .info {
         padding: 0 0 0 0;
-        margin-top: -10px;
+        margin-top: -5px;
     }
     .hero-unit{
-        padding: 60px 0 5px 0;
+        padding: 60px 0 10px 0;
     }
 }
 @media screen and (max-width: 390px) {
