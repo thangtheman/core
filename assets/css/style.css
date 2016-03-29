@@ -130,4 +130,10 @@ body {
 .course{
     float: left;
     text-transform: capitalize;
+    padding-top: 5px;
+}
+.course1{
+    float: left;
+    text-transform: capitalize;
+    padding-top: 10px;
 }
