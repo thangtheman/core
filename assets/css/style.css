@@ -89,6 +89,7 @@
 }
 .info {
     padding: 0px 0px 0px 0px;
+    margin-top: -10px;
 }
 .button1 {
     text-transform: uppercase;
