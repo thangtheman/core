@@ -1,0 +1,133 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.uppercase {
+    padding-top: 23px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 200;
+    font-size: 23px;
+    line-height: 30px;
+}
+.uppercase span {
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+}
+.hero-top{
+    background-color: #F2CA04;
+}
+.hero-unit {
+    padding: 60px 0;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    color: inherit;
+
+    border-radius: 6px;
+}
+.video-placeholder {
+    position:relative
+}
+.video-placeholder img.playButton {
+    left:50%;
+    position:absolute;
+    top:50%;
+    margin-left:-58px;
+    margin-top:-58px
+}
+.video-list-view img {
+}
+.artcle-video-width {
+}
+.video-placeholder {
+    position:relative
+}
+.video-placeholder img.playButton {
+    left:50%;
+    position:absolute;
+    top:50%;
+    margin-left:-58px;
+    margin-top:-58px
+}
+.hero-unit h1 {
+    margin-bottom: 0;
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+    color: inherit;
+}
+.hero-unit li {
+    line-height: 30px;
+}
+.capital{
+    text-transform: capitalize;
+    font-family: Helvetica;
+    font-weight: 500;
+    font-size: 26px;
+    padding-top: 10px;
+}
+.bottom-yellow{
+    background-color: #F2CA04;
+    border-radius: 0 0 20px 20px;
+    height: 165px;
+    margin-top: -20px
+}
+.bottom-blue{
+    background-color: #16BCe0;
+    border-radius: 0 0 20px 20px;
+    height: 165px;
+    margin-top: -20px
+}
+.bottom-green{
+    background-color: #73c278;
+    border-radius: 0 0 20px 20px;
+    height: 165px;
+    margin-top: -20px
+}
+.col-md-4 {
+    padding-top: 10px;
+}
+.info {
+    padding: 10px 15px 5px 0px;
+}
+.button1 {
+    text-transform: uppercase;
+    background-color: transparent;
+    color: black;
+    border: 1px solid #555555;
+    padding: 15px 32px;
+    float: right
+}
+.button2 {
+    text-transform: uppercase;
+    background-color: transparent;
+    color: black;
+    border: 1px solid #555555;
+    padding: 5px 10px;
+    float: right
+}
+@media screen and (max-width: 396px) {
+    .uppercase{
+        font-size: 18px;
+    }
+}
+#footerBar {
+    height: 60px;
+    background: #000000;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    margin-bottom:-40px ;
+}
+.footer{
+    text-align: center;
+    padding-top: 15px;
+    text-transform: uppercase;
+}
+.course{
+    float: left;
+    text-transform: capitalize;
+}
