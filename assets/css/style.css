@@ -61,25 +61,25 @@
 }
 .capital{
     text-transform: capitalize;
-    font-family: Helvetica;
+    font-family: Roboto;
     font-weight: 500;
-    font-size: 26px;
-    padding-top: 5px;
+    font-size: 21px;
+    padding-top: 15px;
 }
 .bottom-yellow{
-    background-color: #F2CA04;
+    background-color: #ebebeb;
     border-radius: 0 0 20px 20px;
     padding-bottom: 30px;
     margin-top: -20px
 }
 .bottom-blue{
-    background-color: #16BCe0;
+    background-color: #ebebeb;
     border-radius: 0 0 20px 20px;
     padding-bottom: 30px;
     margin-top: -20px
 }
 .bottom-green{
-    background-color: #73c278;
+    background-color: #ebebeb;
     border-radius: 0 0 20px 20px;
     padding-bottom: 30px;
     margin-top: -20px
@@ -89,6 +89,9 @@
 }
 .info {
     padding: 10px 0px 0px 0px;
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 14px;
 }
 .button1 {
     text-transform: uppercase;
@@ -112,7 +115,7 @@
         text-align: center;
     }
     .info {
-        padding: 0 0 0 0;
+        padding: 0 0 0 0px;
         margin-top: -5px;
     }
     .hero-unit{
@@ -159,5 +162,14 @@
 .course1{
     float: left;
     text-transform: capitalize;
+    padding-top: 10px;
+}
+body{
+ font-family: Roboto;font-weight: 300;
+}
+.room {
+    padding-bottom: 20px;
+}
+.row div {
     padding-top: 10px;
 }
